@@ -1,10 +1,10 @@
-# <img src="./assets/logo-meteora.png">
+# Meteora ☄️
 
 ### Projeto de uma landing page responsiva de uma marca fictícia de um E-commerce de roupas
 
 
 <div>
-<a style="border:1px solid #0f0; padding:15px 0 0 0px;background:#000;display:flex; flex-direction: column;width:240px; color:white;" href="https://meteora-bootstrap-one.vercel.app/"><img src="./assets/logo-meteora.png">=======>     Clique aqui   <========</a>
+<a href="https://meteora-bootstrap-one.vercel.app/"><img >Link do projeto</a>
 
 <div>
 
@@ -16,29 +16,15 @@
 
 * Menu Bar & Carrosel
 
-<div style="display:flex; height: 300px; margin: 30px">
-    <div style="text-align:center">
-        <h2>Celular
-        <img src="./assets/projeto/parte-principal.png">
-    </div>
-    <div style="text-align:center">
-        <h2>Tablet
-        <img src="./assets/projeto/parte-principal-Tablet.png">
-    </div>
-</div>
-<div style="display:flex; height: 300px; margin: 30px">
-    <div style="text-align:center">
-        <h2>Celular
-        <img src="./assets/projeto/categorias-tablet.png">
-    </div>
-    <div style="text-align:center">
-        <h2>Tablet
-        <img src="./assets/projeto/categorias-mobile.png">
-    </div>
-</div>
-<hr>
-
 * Categorias
+
+* Produtos que estão bombando
+
+* Footer
+
+<img src="./assets/projeto/parte-principal-Tablet.png">
+<img src="./assets/projeto/categorias-mobile.png">
+<img src="./assets/projeto/produtos-tablet.png">
 
 
 
